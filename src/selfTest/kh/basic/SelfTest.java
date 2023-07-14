@@ -5,7 +5,7 @@ public class SelfTest {
 		System.out.println("hi");
 		
 		
-		int a = 10;
+		int a = 100;
 		int b = 20;
 		double c = 0.1;
 		
