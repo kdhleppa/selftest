@@ -6,7 +6,9 @@ import java.util.List;
 public class nimNumArray {
 	
 	public int solution(String t, String p) {
-        int answer = 0;
+        
+		/*
+		int answer = 0;
         int count = 0;
         int num = 0;
         
@@ -42,6 +44,8 @@ public class nimNumArray {
         	}
         }
         answer = count;
+        
+        */
         return answer;
     }
 
